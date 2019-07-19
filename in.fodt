@@ -387,7 +387,7 @@
       </draw:object>
     </draw:frame><text:tab/>(formula = {x} wideslash {y})
    </text:p>
-   <text:p text:style-name="P7">inline <draw:frame draw:style-name="Fformulae" draw:name="f = o+r+m+u+l+a" text:anchor-type="as-char" svg:width="3.517cm" svg:height="0.467cm" draw:z-index="1"><draw:object>
+   <text:p text:style-name="Pnormal">inline <draw:frame draw:style-name="Fformulae" draw:name="f = o+r+m+u+l+a" text:anchor-type="as-char" svg:width="3.517cm" svg:height="0.467cm" draw:z-index="1"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <annotation encoding="StarMath 5.0">f = o+r+m+u+l+a</annotation>
