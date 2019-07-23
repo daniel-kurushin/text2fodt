@@ -1,0 +1,22 @@
+@INPROCEEDINGS{Polastre05telos:enabling,
+    author = {Joseph Polastre and Robert Szewczyk and David Culler},
+    title = {Telos: enabling ultra-low power wireless research},
+    booktitle = {IN IPSN},
+    year = {2005},
+    pages = {364--369},
+    publisher = {IEEE Press}
+}
+@ARTICLE{Madden05tinydb:an,
+    author = {Samuel R. Madden and Michael J. Franklin and Joseph M. Hellerstein and Wei Hong},
+    title = {Tinydb: An acquisitional query processing system for sensor networks},
+    journal = {ACM Trans. Database Syst},
+    year = {2005},
+    volume = {30},
+    pages = {2005}
+}
+@MISC{Karlof03securerouting,
+    author = {Chris Karlof and David Wagner},
+    title = {Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures},
+    year = {2003}
+}
+
