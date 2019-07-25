@@ -7,4 +7,6 @@ Created on Thu Jul 25 19:46:04 2019
 """
 
 class Paragraph:
+    def __init__(self, **kwargs):
+        pass
     pass

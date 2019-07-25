@@ -17,5 +17,5 @@ if __name__ == '__main__':
     except IndexError:
         print('usage: %s [input file]' % sys.argv[0])
     except FileNotFoundError:
-        print('file %s was npt found' % fname)
+        print('file %s was not found' % fname)
         

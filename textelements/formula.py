@@ -5,6 +5,7 @@ Created on Thu Jul 25 19:46:04 2019
 
 @author: dan
 """
+from textelements.paragraph import Paragraph
 
-class Formula:
+class Formula(Paragraph):
     pass
