@@ -26,7 +26,7 @@ def get_par_type(_in_par):
         else:
             return Paragraph
     except IndexError:
-        return T_PARAGRAPH
+        return Paragraph
 
 def get_paragraphs(_in = 'a\ns\n\nd\nf\n'):
     _in = _in.strip('\n') + '\n'
