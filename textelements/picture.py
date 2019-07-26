@@ -33,7 +33,8 @@ class Picture(Paragraph):
             raise PictureParseError('Image not found %s' % str(_vars))
             
     def __get_img_params(self, img):
-        
+        print(dir(img))
+        raise Exception()
         return _name, _w, _h, _quote, _format 
             
     def __init__(self, *args, **kwargs):
