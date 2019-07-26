@@ -39,11 +39,11 @@ def get_paragraphs(_in = 'a\ns\n\nd\nf\n'):
             line += [l.rstrip()]
 
 
-def parse(_in):
+def parse(_in, root):
     text = []
     for par in get_paragraphs(_in):
         ClassOfTheElement = get_par_type(par)
-        text += [ClassOfTheElement(par)]
+        text += [ClassOfTheElement(par = par, root = root)]
     return text
 
 
